@@ -1,0 +1,129 @@
+
+
+.cover{
+  
+  height:600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color:rgba(0,0,0,0.6);
+  background-blend-mode: darken;
+  color: white;
+  background-image: url(https://cdn.glitch.global/556f605a-41c1-44b6-a20d-ca1af8f5cd79/fondo2.jpeg?v=1654622241208)
+ 
+}
+
+
+
+.navbar{
+  
+  background-color: black;
+}
+
+.nav-link{
+  
+  color:black;
+  
+}
+
+
+
+.nav-item{
+  
+  font-size: 25px;
+}
+
+
+
+
+.responsive-iframe{
+  
+  position: relative;
+  padding-top: 56.25%;
+}
+
+.responsive-iframe iframe{
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+}
+
+.quien{
+  height:600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color:rgba(0,0,0,0.6);
+  background-blend-mode: darken;
+  color: white;
+  background-image: url(https://cdn.glitch.global/556f605a-41c1-44b6-a20d-ca1af8f5cd79/tablsts.jpeg?v=1654667722452)
+ 
+  
+}
+
+
+.a{
+  
+  background-color:white;
+}
+
+#Redes{
+text-align: center;
+}
+
+
+
+#Imagen{
+  
+  height: 250px;
+}
+
+#Entretenimiento{
+  
+  text-align: center;
+}
+
+#Noticias{
+  text-align: center;
+}
+
+#Trabajo{
+  text-align: center;
+}
+
+#Tiendas{
+  text-align: center;
+}
+
+#Educacion{
+  text-align: center;
+}
+
+#Infantil{
+  text-align: center;
+}
+
+#Guvernamental{
+  text-align: center;
+}
+
+#Salud{
+  text-align: center;
+}
+
+
+#Colombia{
+  text-align: center;
+}
+
+#Global{
+  text-align: center;
+}
+
+.nav-item{
+  font-size:16px;
+}
